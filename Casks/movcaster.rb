@@ -24,7 +24,7 @@ cask "movcaster" do
   end
 
   name "movcaster"
-  desc "Stream local video to a DLNA renderer (LG webOS TV) from the terminal"
+  desc "Stream local video to your TV from the terminal over DLNA or Google Cast"
   homepage "https://github.com/juliocesar/movcaster"
 
   livecheck do
